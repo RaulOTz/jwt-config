@@ -1,0 +1,63 @@
+# Secrets
+.env
+*.env
+.env.*
+
+# Entorno virtual Python
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Angular build
+dist/
+
+# Java
+target/
+*.jar
+
+# DB local
+*.db
+*.sqlite3
+
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# files
+.DS_Store
+
+# Build / cache
+dist/
+build/
+*.egg-info/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# Uvicorn / FastAPI temp
+*.pid
+
+# Docker 
+*.tar
+
+# Migrations
+# migrations/versions/*ß
